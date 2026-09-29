@@ -37,7 +37,7 @@ This project demonstrates **production-grade cloud data engineering** skills by 
 │  Factory (ADF)        Notebook             Excel Report           │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
+![Architecture](arch_azure_property.png)
 ### Layer Responsibilities
 
 **🔵 Bronze — Raw Ingestion**  
